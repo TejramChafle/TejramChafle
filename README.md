@@ -39,4 +39,4 @@ A collection of personal and learning projects demonstrating
 full-stack development, REST APIs, Angular, Java/Spring Boot
 and modern development practices.
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/tejram-chafle-8bb6a757/))
