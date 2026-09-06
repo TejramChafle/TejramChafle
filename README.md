@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Tejram 👋
 
-<!--
-**TejramChafle/TejramChafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full Stack Engineer | Technical Lead
 
-Here are some ideas to get you started:
+I'm a software engineer with 10+ years of experience building,
+modernizing and supporting enterprise applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary technical experience includes:
+
+- Java & Spring Boot
+- Angular & TypeScript
+- REST APIs & Microservices
+- Oracle / SQL
+- Docker & Kubernetes
+- GitHub Actions & ArgoCD
+- CI/CD & Application Modernization
+
+### What I work on
+
+Currently working on enterprise applications in the hospitality
+domain, with responsibilities spanning full-stack development,
+solution design, technical leadership, modernization and production
+engineering.
+
+### Areas of interest
+
+- Java & Spring Boot
+- Angular & TypeScript
+- Microservices
+- System Design
+- Kubernetes & CI/CD
+- Application Performance
+- Cloud & DevOps
+- Software Architecture
+
+### Featured Projects
+
+A collection of personal and learning projects demonstrating
+full-stack development, REST APIs, Angular, Java/Spring Boot
+and modern development practices.
+
+📫 Connect with me on LinkedIn
